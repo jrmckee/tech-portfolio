@@ -11,4 +11,4 @@ a screenshot or GIF to show it.
 You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
 or even embed images with the following Markdown:
 
-![Recent API Query that I wrote](./assets/Screenshot (407).png)
+![Recent API Query that I wrote](./assets/pythonAPI.png)
